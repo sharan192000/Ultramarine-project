@@ -1,0 +1,32 @@
+*{
+Text-align:center;
+}
+.background{
+background-image: url("menu.png");
+  background-position: center;
+   background-position: center;
+   background-size: cover;
+}	
+button{
+	text-decoration: none;
+	border: 2px solid green;
+	  padding: 10px 10px;
+	  display: inline-block;
+	  background-color: white-space;
+  border: none;
+  cursor: pointer;
+}
+.bt1:hover {
+  color: RoyalBlue;
+}
+.logo{
+	 float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.con{
+    text-decoration: none;
+}
+a{
+	text-decoration: none;
+}
